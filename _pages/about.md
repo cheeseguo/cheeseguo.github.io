@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me :baby_chick:"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
