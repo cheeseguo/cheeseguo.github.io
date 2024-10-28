@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me :baby_chick:"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ I completed my undergraduate studies at [Taiyuan University of Technology](https
 * Large Model Security
 * C++ Programming
 
-# Links and Contact :anchor:
+# Links and Contact :apple:
 * [CSDN](https://blog.csdn.net/weixin_46803857?type=blog) (This is my technical blog which I have stopped updating for a long time.)
 * [面包多](https://mbd.pub/o/author-aGublGxpbA==/work)
 * [Github](https://github.com/cheeseguo)
