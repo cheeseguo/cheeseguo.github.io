@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me :baby_chick:-yunfeng"
+title: "About me :baby_chick: - yunfeng"
 author_profile: true
 redirect_from: 
   - /about/
